@@ -1,0 +1,13 @@
+{
+  "name": "vault-backup",
+  "version": "0.1.0",
+  "description": "Dump all Hashicorp Vault secrets to a file.",
+  "main": "src/index.js",
+  "author": "Andrey Pankov <andrey@twelvedevs.com>",
+  "license": "Apache",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bunyan": "^1.8.15",
+    "minimist": "^1.2.6"
+  }
+}
